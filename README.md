@@ -11,3 +11,5 @@ Programul are urmatoarele functionalitati:
   - Afiseaza in format tabelar valoarea totala a obiectelor clasificate dupa tipul lor
 
 Programul se foloseste de bibliotecile java.awt si jawa.swing pentru partea de GUI, de asemenea folosesc mai multe imagini in format .png pentru icons, se pot inlocui cu oricare alt icon dorit doar ca trebuie facute ajustari la marime.
+
+Pentru a se rula trebuie schimbat fiecare link folosit(pentru fisierul din care se iau obiectele si cele pentru imagini)
