@@ -23,7 +23,7 @@ import javax.swing.border.EtchedBorder;
 	    	Repository r= new Repository("C://Users//Larisa//eclipse-workspace//Lab4//Obiecte.txt");
 	    	Service s= new Service(r);
 	    	Console c= new Console(s);
-			JFrame frame = new JFrame("Inventar Magazie");										//creem un nou frame(fereastra)
+			JFrame frame = new JFrame("Inventar Magazie");										//creem un nou frame
 			
 			ImageIcon image = new ImageIcon("C:\\Users\\Larisa\\eclipse-workspace\\iconf2.png");					//se initializeaza si declareaza icons care vor fi folosite in fereastra
 			ImageIcon icon = new ImageIcon("C:\\Users\\Larisa\\eclipse-workspace\\ce2.png");
