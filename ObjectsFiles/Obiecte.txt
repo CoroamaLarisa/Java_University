@@ -1,0 +1,9 @@
+Lays,Chipsuri,23,1000,5.0,30
+Chio,Chipsuri,14,500,4.3,400
+Krax,Chipsuri,89,600,3.5,140
+Milka,Ciocolata,30,2000,3.7,10
+Primola,Ciocolata,31,1500,2.5,50
+Poiana,Ciocolata,40,1300,3.0,20
+Twix,Ciocolata,21,1000,3.5,0
+Pringles,Chipsuri,2,4000,6.5,0
+Dove,Sapun,60,400,4.0,0
