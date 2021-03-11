@@ -1,6 +1,6 @@
 # Java_University
 
-![alt text](https://github.com/CoroamaLarisa/Java_University/tree/main/images/capturaProiect.JPG)
+![ScreenShot](https://github.com/CoroamaLarisa/Java_University/tree/main/images/capturaProiect.JPG)
 
 Acest program este folosit pentru gestionarea inventarului unui magazin
 Programul are urmatoarele functionalitati:
