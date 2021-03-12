@@ -2,13 +2,14 @@
 
 ![Alt Text](https://github.com/CoroamaLarisa/Java_University/blob/main/images/captura2.png)
 
-Acest program este folosit pentru gestionarea inventarului unui magazin
-Programul are urmatoarele functionalitati:
-  - Citeste din fisier obiectele
-  - Afiseaza in format tabelar inventarul cu toate obiectele
-  - Afiseaza in format tabelar obiectele epuizate din stoc
-  - Afiseaza in format tabelar obiectele in curs de epuizare(<10% din stocul initial)
-  - Afiseaza in format tabelar obiectele foarte scumpe( se va introduce de la tastatura un pret, vor fi afisare produsele cu pretul unitar mai mare decat valoarea introdusa)
-  - Afiseaza in format tabelar valoarea totala a obiectelor clasificate dupa tipul lor
 
-Programul se foloseste de bibliotecile java.awt si jawa.swing pentru partea de GUI, de asemenea folosesc mai multe imagini in format .png pentru icons, se pot inlocui cu oricare alt icon dorit doar ca trebuie facute ajustari la marime.
+This program is used to manage a store's inventory
+The program has the following functionalities:
+  - Read the objects from the file
+  - Displays in tabular format the inventory with all objects
+  - Displays in tabular format the items sold out of stock
+  - Displays in tabular format the items being exhausted (<10% of the initial stock)
+  - Displays in tabular format the very expensive objects (a price will be entered from the keyboard, the products with the unit price higher than the entered value will be displayed)
+  - Displays in tabular format the total value of objects classified by their type
+
+The program uses the java.awt and jawa.swing libraries for the GUI part, they also use several images in .png format for icons, which can be replaced with any other desired icon only that size adjustments need to be made.
